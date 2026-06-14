@@ -5,7 +5,7 @@ import Login from "./pages/Login";
 import Jobs from "./pages/Jobs";
 import Register from "./pages/Register";
 import JobDetails from "./components/JobDetails";
-import Navbar from "./components/Navbar";
+import Navbar from "./components/NavBar";
 import Profile from "./pages/Profile";
 import AdminDashboard from "./pages/AdminDashboard";
 import EmployerDashboard from "./pages/EmployerDashboard";
